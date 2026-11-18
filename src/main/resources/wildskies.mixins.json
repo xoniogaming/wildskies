@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "wildskies.mixin",
+  "plugin": "wildskies.mixin.WSMixinPlugin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "LevelMixin",
+    "ServerLevelMixin",
+    "compat.StarcatcherWeatherMixin"
+  ],
+  "client": [
+    "BiomeMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wildskies:star_atlas"
+    },
+    "title": {
+      "translate": "advancement.wildskies.first_constellation"
+    },
+    "description": {
+      "translate": "advancement.wildskies.first_constellation.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "found": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wildskies:root"
+}

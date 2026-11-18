@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wildskies:nebula_filter"
+    },
+    "title": {
+      "translate": "advancement.wildskies.all_hidden"
+    },
+    "description": {
+      "translate": "advancement.wildskies.all_hidden.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "found": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wildskies:first_hidden"
+}

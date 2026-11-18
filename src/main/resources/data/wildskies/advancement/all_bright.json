@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wildskies:star_lens"
+    },
+    "title": {
+      "translate": "advancement.wildskies.all_bright"
+    },
+    "description": {
+      "translate": "advancement.wildskies.all_bright.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "found": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wildskies:first_constellation"
+}

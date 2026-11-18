@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "wildskies:ember_charm",
+    "wildskies:verdigris_charm",
+    "wildskies:old_gold_charm",
+    "wildskies:pale_rider_charm",
+    "wildskies:indigo_charm",
+    "wildskies:cinder_charm"
+  ]
+}

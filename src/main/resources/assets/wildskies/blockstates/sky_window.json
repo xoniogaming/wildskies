@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "wildskies:block/sky_window"
+    },
+    "facing=south": {
+      "model": "wildskies:block/sky_window"
+    },
+    "facing=east": {
+      "model": "wildskies:block/sky_window"
+    },
+    "facing=west": {
+      "model": "wildskies:block/sky_window"
+    },
+    "facing=up": {
+      "model": "wildskies:block/sky_window"
+    },
+    "facing=down": {
+      "model": "wildskies:block/sky_window"
+    }
+  }
+}

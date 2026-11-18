@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "wildskies:item/pale_rider_charm_down"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "wildskies:up": 1
+      },
+      "model": "wildskies:item/pale_rider_charm_up"
+    }
+  ]
+}

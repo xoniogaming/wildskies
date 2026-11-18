@@ -1,0 +1,83 @@
+{
+  "view.open": {
+    "sounds": [
+      {
+        "name": "block/amethyst/resonate1",
+        "pitch": 0.7,
+        "volume": 0.8
+      },
+      {
+        "name": "block/amethyst/resonate2",
+        "pitch": 0.7,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.wildskies.view.open"
+  },
+  "view.hum": {
+    "sounds": [
+      {
+        "name": "block/beacon/ambient",
+        "pitch": 0.5,
+        "volume": 0.35
+      }
+    ],
+    "subtitle": "subtitles.wildskies.view.hum"
+  },
+  "view.wind": {
+    "sounds": [
+      {
+        "name": "item/elytra/elytra_loop",
+        "pitch": 0.45,
+        "volume": 0.12,
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.wildskies.view.wind"
+  },
+  "view.iris": {
+    "sounds": [
+      {
+        "name": "item/spyglass/use",
+        "pitch": 1.4,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.wildskies.view.iris"
+  },
+  "line.join": {
+    "sounds": [
+      {
+        "name": "note/icechime",
+        "pitch": 1.0,
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.wildskies.line.join"
+  },
+  "found": {
+    "sounds": [
+      {
+        "name": "block/amethyst/shimmer",
+        "pitch": 1.0,
+        "volume": 0.9
+      },
+      {
+        "name": "block/bell/resonate",
+        "pitch": 1.0,
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.wildskies.found"
+  },
+  "trace.wrong": {
+    "sounds": [
+      {
+        "name": "note/bell",
+        "pitch": 0.6,
+        "volume": 0.4
+      }
+    ],
+    "subtitle": "subtitles.wildskies.trace.wrong"
+  }
+}

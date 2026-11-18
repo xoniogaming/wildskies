@@ -1,0 +1,40 @@
+{
+  "variants": {
+    "facing=north,tier=0": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=north,tier=1": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=north,tier=2": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=east,tier=0": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=east,tier=1": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=east,tier=2": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=south,tier=0": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=south,tier=1": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=south,tier=2": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=west,tier=0": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=west,tier=1": {
+      "model": "wildskies:block/telescope"
+    },
+    "facing=west,tier=2": {
+      "model": "wildskies:block/telescope"
+    }
+  }
+}

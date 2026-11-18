@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "GGG",
+    "GDG",
+    "GGG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "wildskies:stardust"
+    }
+  },
+  "result": {
+    "id": "wildskies:nebula_glass",
+    "count": 8
+  }
+}

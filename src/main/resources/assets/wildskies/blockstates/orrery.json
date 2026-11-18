@@ -1,0 +1,100 @@
+{
+  "variants": {
+    "facing=north,up=false,weather=0": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=north,up=false,weather=1": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=north,up=false,weather=2": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=north,up=false,weather=3": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=north,up=true,weather=0": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=north,up=true,weather=1": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=north,up=true,weather=2": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=north,up=true,weather=3": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=south,up=false,weather=0": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=south,up=false,weather=1": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=south,up=false,weather=2": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=south,up=false,weather=3": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=south,up=true,weather=0": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=south,up=true,weather=1": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=south,up=true,weather=2": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=south,up=true,weather=3": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=east,up=false,weather=0": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=east,up=false,weather=1": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=east,up=false,weather=2": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=east,up=false,weather=3": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=east,up=true,weather=0": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=east,up=true,weather=1": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=east,up=true,weather=2": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=east,up=true,weather=3": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=west,up=false,weather=0": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=west,up=false,weather=1": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=west,up=false,weather=2": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=west,up=false,weather=3": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=west,up=true,weather=0": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=west,up=true,weather=1": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=west,up=true,weather=2": {
+      "model": "wildskies:block/orrery"
+    },
+    "facing=west,up=true,weather=3": {
+      "model": "wildskies:block/orrery"
+    }
+  }
+}

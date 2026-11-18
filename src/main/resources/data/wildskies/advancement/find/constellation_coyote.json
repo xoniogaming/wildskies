@@ -1,0 +1,7 @@
+{
+  "criteria": {
+    "found": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

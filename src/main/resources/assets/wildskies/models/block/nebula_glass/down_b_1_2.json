@@ -1,0 +1,35 @@
+{
+  "render_type": "minecraft:translucent",
+  "ambientocclusion": false,
+  "textures": {
+    "t": "wildskies:block/nebula_glass/tile_b_1_2",
+    "particle": "wildskies:block/nebula_glass"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        0
+      ],
+      "to": [
+        16,
+        16,
+        16
+      ],
+      "shade": false,
+      "faces": {
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#t",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
+}

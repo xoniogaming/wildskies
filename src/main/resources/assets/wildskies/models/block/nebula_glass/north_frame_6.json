@@ -1,0 +1,35 @@
+{
+  "render_type": "minecraft:translucent",
+  "ambientocclusion": false,
+  "textures": {
+    "t": "wildskies:block/nebula_glass/frame_6",
+    "particle": "wildskies:block/nebula_glass"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        -0.01
+      ],
+      "to": [
+        16,
+        16,
+        -0.01
+      ],
+      "shade": false,
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#t",
+          "cullface": "north"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+modLoader="javafml"
+loaderVersion="${loader_version_range}"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="The_Letter_A"
+logoFile="wildskies.png"
+description='''${mod_description}'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+# The telescope block's model.
+[[dependencies.${mod_id}]]
+    modId="geckolib"
+    type="required"
+    versionRange="${geckolib_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+# Optional: an Atlas page for Eternal Starlight's meteor shower.
+[[dependencies.${mod_id}]]
+    modId="eternal_starlight"
+    type="optional"
+    versionRange="*"
+    ordering="NONE"
+    side="BOTH"
+
+# Optional: planet charms go in its "charm" slot (without it: hotbar or offhand).
+[[dependencies.${mod_id}]]
+    modId="curios"
+    type="optional"
+    versionRange="*"
+    ordering="NONE"
+    side="BOTH"
+
+# 0.9.0: the weather zones (Level.isRainingAt, ServerLevel.tickPrecipitation, the client's Biome.getPrecipitationAt).
+[[mixins]]
+    config="wildskies.mixins.json"

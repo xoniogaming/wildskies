@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " S ",
+    "SPS",
+    " S "
+  ],
+  "key": {
+    "P": {
+      "item": "minecraft:glass_pane"
+    },
+    "S": {
+      "item": "wildskies:star_shard"
+    }
+  },
+  "result": {
+    "id": "wildskies:star_lens",
+    "count": 1
+  }
+}

@@ -1,0 +1,2 @@
+# Blockbench stores absolute texture paths; strip the local folder before committing
+*.bbmodel filter=localpath

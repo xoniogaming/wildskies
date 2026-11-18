@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wildskies:star_shard"
+    },
+    "title": {
+      "translate": "advancement.wildskies.first_planet"
+    },
+    "description": {
+      "translate": "advancement.wildskies.first_planet.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "found": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wildskies:root"
+}

@@ -1,0 +1,58 @@
+{
+  "variants": {
+    "part=0": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=1": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=2": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=3": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=4": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=5": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=6": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=7": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=8": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=9": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=10": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=11": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=12": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=13": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=14": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=15": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=16": {
+      "model": "wildskies:block/planet_mobile"
+    },
+    "part=17": {
+      "model": "wildskies:block/planet_mobile"
+    }
+  }
+}

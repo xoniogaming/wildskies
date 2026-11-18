@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "id": "wildskies:ember_charm"
+    },
+    "title": {
+      "translate": "advancement.wildskies.all_planets"
+    },
+    "description": {
+      "translate": "advancement.wildskies.all_planets.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "found": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "wildskies:first_planet"
+}
